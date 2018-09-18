@@ -22,9 +22,9 @@
 }
 
 @media only screen and (max-width: 900px) {
-  body {
+  /*body {
     font-size: 85%;
-  }
+  }*/
 
   #logo h1 {
     width: 35px;
@@ -42,7 +42,7 @@
 
 @media only screen and (max-width: 800px) {
   #navbar nav a {
-    font-size: 5px;
+    font-size: 0.9em;
   }
 }
 
